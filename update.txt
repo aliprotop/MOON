@@ -1,0 +1,5 @@
+Security Update 2.0
+Added new antiban system
+Fixed crash on Android 16
+Improved performance
+Enhanced security features
