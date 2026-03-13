@@ -1,0 +1,5 @@
+Security Update 2.0
+Fix Client side Error 
+Fixed Crash Inside Game 
+Improved performance
+Enhanced security features
