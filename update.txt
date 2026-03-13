@@ -1,5 +1,0 @@
-Security Update 1.0
-Strong Antiban system
-Fixed All Android Device
-Improved performance
-Enhanced security features
